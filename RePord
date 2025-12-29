@@ -1,5 +1,4 @@
-/* C:\Users\Echar\source\repos\Testreportdll\x64\Release\Testreportdll.dll (12/29/2025 10:22:25 PM)
-   StartOffset(h): 00000000, EndOffset(h): 000025FF, Length(h): 00002600 */
+
 
 unsigned char rawData[9728] = {
 	0x4D, 0x5A, 0x90, 0x00, 0x03, 0x00, 0x00, 0x00, 0x04, 0x00, 0x00, 0x00,
